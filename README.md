@@ -19,7 +19,7 @@ Secure data storage
 🚀 How to Run Locally:
 Clone the repository:
 
-git clone
+git clone git@github.com:abedin-ansari/Doctor-Appointment-Booking.git
 
 Start the backend:
 
